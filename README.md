@@ -22,6 +22,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrashti-19&layout=compact&theme=radical)
 
 ![Visitor Count](https://profile-counter.glitch.me/shrashti-19/count.svg)
+![LeetCode Stats](https://leetcode-stats-eight.vercel.app/?username=your-leetcode-username&theme=radical)
+
 
 ---
 
