@@ -4,8 +4,8 @@ I'm a final-year Computer Science student at Manipal University Jaipur, passiona
 
 ## 🌱 Currently Learning
 - Advanced JavaScript (ES6+), DSA
-- WordPress basics & PHP
-- Data analysis with Python
+- Full stack Development
+- Devops
 
 ## 💻 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js
