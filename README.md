@@ -1,39 +1,52 @@
-# 👋 Hi, I’m Shrashti Dwivedi
+# Hi 👋 I’m Shrashti Dwivedi
 
-I'm a final-year Computer Science student at Manipal University Jaipur, passionate about **web development**, **data structures and algorithms (DSA)**, and exploring **AI/ML**.
+Final-year Computer Science student at **Manipal University Jaipur**, focused on building **reliable backend systems**, strengthening **DSA fundamentals**, and applying AI **where it makes product sense**.
 
-## 🌱 Currently Learning
-- Advanced JavaScript (ES6+), DSA
-- Full stack Development
-- Devops
+I care about **clarity, explainability, and clean engineering** — not buzzwords.
+
+---
+
+## 🔧 What I’m Working On
+- Building **PromptPulse** — a backend-first project to design, scale, and explain real-world APIs
+- Strengthening **Data Structures & Algorithms** with a consistency-first approach
+- Applying **DevOps fundamentals** (Docker, CI basics) to real projects
+
+---
+
+## 🧠 Core Strengths
+- Backend development with **Node.js & Express**
+- Designing REST APIs with **MongoDB**
+- Writing explainable solutions for **DSA**
+- Debugging, performance optimization, and clean architecture
+- Collaborating in agile teams
+
+---
 
 ## 💻 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js, MongoDB
-- **Other Tools:** Git, GitHub, Postman, VS Code
+**Languages:** Java, JavaScript, Python, SQL  
+**Backend:** Node.js, Express.js, MongoDB, JWT  
+**Frontend:** React.js, HTML, CSS, Tailwind  
+**Tools:** Git, GitHub, Docker, Postman, VS Code  
 
-## 🧠 Interests
-- Building full-stack web apps
-- Contributing to open-source projects
-- Creating clean and scalable code
-- Exploring CMS development (WordPress, plugin/theme basics)
+---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrashti-19&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrashti-19&layout=compact&theme=radical)
+## 📌 Notable Work
+- **Backend Developer Intern @ Techlearn Solutions**  
+  Built and maintained APIs, delivered features in agile sprints, fixed production bugs.
 
-## 🏅 Achievements
-- 🏆 **GSSoC'24 Contributor** – Contributed to open-source projects under GirlScript Summer of Code 2024
-- 🥇 **GSSoC'25 Contributor** – Selected again for the 2025 edition; excited to contribute to more impactful projects!
+- **Server Administration Intern @ Merck Group (Sigma Aldrich)**  
+  Working with Windows servers, Active Directory, DNS/DHCP, and infrastructure support.
 
-## 🤝 Let's Connect
-- 🌐 [Portfolio Website](https://shrashti-portfolio-website.lovable.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shrashti-dwivedi-663049253/)
-- 💻 [GitHub](https://github.com/shrashti-19)
-- 🧾 [Code360](https://www.naukri.com/code360/profile/a976a440-31c3-4d23-b286-212bb23eb9fb)
+- **Open Source Contributor – GirlScript Summer of Code (GSSoC)**  
+  Selected contributor (2024, 2025), focused on performance improvements and real fixes.
 
-## 😄 Pronouns
-She/Her
+---
 
-## ⚡ Fun Fact
-I love solving coding challenges and building cool, user-friendly web apps in my free time!
+## 🤝 Let’s Connect
+- 🌐 Portfolio: https://shrashti-portfolio-website.lovable.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/shrashti-dwivedi-663049253/  
+- 💻 GitHub: https://github.com/shrashti-19  
+
+---
+
+✨ *Currently focused on building depth, not rushing outcomes.*
