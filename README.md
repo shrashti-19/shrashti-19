@@ -17,7 +17,7 @@ I care about **clarity, explainability, and clean engineering** — not buzzword
 
 ## 🧠 Core Strengths
 
-- Backend development with **Node.js, Express.js & FastAPI**
+- Backend development with **Node.js, Express.js & REST API**
 - Designing REST APIs with **MongoDB, Redis**
 - Building **AI-integrated backend systems** (AWS Bedrock, Gemini API)
 - Debugging, performance optimization, and clean architecture
