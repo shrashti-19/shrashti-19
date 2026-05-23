@@ -1,64 +1,81 @@
 # Hi 👋 I'm Shrashti Dwivedi
 
-Final-year Computer Science student at **Manipal University Jaipur**, focused on building **reliable backend systems**, strengthening **DSA fundamentals**, and applying AI **where it makes product sense**.
+Final-year Computer Science student at **Manipal University Jaipur**, focused on building reliable backend systems, strengthening DSA fundamentals, and applying AI where it creates real product value.
 
-I care about **clarity, explainability, and clean engineering** — not buzzwords.
+I care about clarity, explainability, and clean engineering — not buzzwords.
 
 ---
 
 ## 🔧 What I'm Working On
 
-- Building **PromptPulse** — a production-grade backend system with JWT auth, RBAC, and MongoDB optimization
-- Co-developing a **Server Diagnostics & Log Analysis Tool** at Merck Group using FastAPI, PowerShell, and WinRM
-- Strengthening **Data Structures & Algorithms** with a consistency-first approach (82+ LeetCode problems)
-- Applying **DevOps fundamentals** (Docker, CI basics) to real projects
+* Building **PromptPulse** — a backend system with JWT authentication, RBAC, refresh-token flows, and MongoDB query optimization
+* Co-developing a **Server Diagnostics & Log Analysis Tool** at Merck Group using FastAPI, PowerShell, and WinRM
+* Strengthening Data Structures & Algorithms with a consistency-first approach (**100+ LeetCode problems**)
+* Applying DevOps fundamentals like Docker and CI basics to real-world projects
 
 ---
 
 ## 🧠 Core Strengths
 
-- Backend development with **Node.js, Express.js & REST API**
-- Designing REST APIs with **MongoDB, Redis**
-- Building **AI-integrated backend systems** (AWS Bedrock, Gemini API)
-- Debugging, performance optimization, and clean architecture
-- Collaborating in agile teams
+* Backend development with **Node.js, Express.js, and FastAPI**
+* Designing scalable REST APIs with **MongoDB and Redis**
+* Building backend systems enhanced with practical AI integrations using **AWS Bedrock and Gemini API**
+* Debugging backend systems, optimizing API performance, and designing maintainable architectures
+* Collaborating effectively in agile development environments
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** JavaScript (ES6+), Java, Python, SQL
-**Backend:** Node.js, Express.js, FastAPI, REST APIs, JWT, RBAC
-**Databases & Cloud:** MongoDB, MySQL, Redis | AWS (Lambda, Bedrock, API Gateway, Amplify), Docker
-**Tools:** Git, GitHub, Postman, VS Code
+### Languages
+
+JavaScript (ES6+), Java, Python, SQL
+
+### Backend
+
+Node.js, Express.js, FastAPI, REST APIs, JWT, RBAC
+
+### Databases & Cloud
+
+MongoDB, MySQL, Redis
+AWS (Lambda, Bedrock, API Gateway, Amplify), Docker
+
+### Tools
+
+Git, GitHub, Postman, VS Code
 
 ---
 
-## 📌 Notable Work
+## 📌 Experience & Highlights
 
-- **Server Administration Intern @ Merck Group (German MNC)**
-  Working on Windows Server infrastructure, Active Directory, DNS/DHCP, and co-developing a FastAPI-based diagnostics tool.
+### Server Administration Intern — Merck Group
 
-- **Backend Developer Intern @ Techlearn Solutions**
-  Built 8+ RESTful APIs, implemented JWT authentication, delivered features in agile sprints.
+Working with Windows Server infrastructure, Active Directory, DNS/DHCP, and contributing to a FastAPI-based diagnostics platform for server monitoring and log analysis.
 
-- **Web Development Intern @ Sopra Steria**
-  Built full-stack MERN e-commerce app with secure auth and optimized MongoDB queries.
+### Backend Developer Intern — Techlearn Solutions
 
-- **AI for Bharat Hackathon (powered by AWS) — Top Innovator 🏆**
-  Selected as Top Innovator (Solo Participant) for Prototype Development Phase — built an end-to-end AI retail analytics system using AWS Bedrock, Lambda, and API Gateway.
+Built and optimized RESTful APIs, implemented JWT authentication, and delivered backend features across agile development cycles.
 
-- **Open Source Contributor – GirlScript Summer of Code (GSSoC 2024)**
-  Selected contributor focused on performance improvements and real fixes.
+### Web Development Intern — Sopra Steria
+
+Developed a full-stack MERN e-commerce application with secure authentication and optimized MongoDB queries for improved API performance.
+
+### AI for Bharat Hackathon (AWS) — Top Innovator 🏆
+
+Selected as a Top Innovator (Solo Participant) for building an AI-powered retail analytics system using AWS Bedrock, Lambda, and API Gateway.
+
+### Open Source Contributor — GirlScript Summer of Code 2024
+
+Contributed to open-source projects focused on performance improvements and practical issue resolution.
 
 ---
 
 ## 🤝 Let's Connect
 
-- 🌐 Portfolio: https://shrashti-portfolio-showcase.lovable.app
-- 💼 LinkedIn: https://www.linkedin.com/in/shrashti-dwivedi21
-- 💻 GitHub: https://github.com/shrashti-19
+* 🌐 Portfolio: https://shrashti-portfolios.lovable.app/
+* 💼 LinkedIn: https://www.linkedin.com/in/shrashti-dwivedi21
+* 💻 GitHub: https://github.com/shrashti-19
 
 ---
 
-✨ *Building backend systems that are reliable, explainable, and production-ready.*
+✨ *Building backend systems that are reliable, explainable, and designed with long-term maintainability in mind.*
